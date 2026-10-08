@@ -1,0 +1,6 @@
+# 由 Claude Code 在載入 mod 時自動產生的型別檔（含本機連接的工具清單）
+**/.claude-plugin/types/
+
+node_modules/
+.env*
+*.log

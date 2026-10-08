@@ -1,0 +1,7 @@
+{
+  "name": "cmd-finder",
+  "version": "0.1.0",
+  "description": "查指令和 skill：/find 關鍵字，或在面板裡搜尋，點一下就填進輸入框",
+  "author": { "name": "a5013" },
+  "types": "./types/index.d.ts"
+}

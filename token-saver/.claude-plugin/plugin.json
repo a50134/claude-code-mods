@@ -1,0 +1,7 @@
+{
+  "name": "token-saver",
+  "version": "0.1.0",
+  "description": "額度快用完時問你要不要暫存進度，下次開啟時問你要不要接著跑",
+  "author": { "name": "a5013" },
+  "types": "./types/index.d.ts"
+}

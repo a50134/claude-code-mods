@@ -1,0 +1,9 @@
+{
+  "name": "projects-token-panel",
+  "version": "0.5.0",
+  "description": "側邊面板：顯示專案(session)狀態與 token 用量、重置倒數",
+  "author": {
+    "name": "a5013"
+  },
+  "types": "./types/index.d.ts"
+}
